@@ -141,9 +141,9 @@ k4n2,"Cocer la comida, dejándola medio cruda y sin sazonar."
 ,"Partenza es una palabra en italiano que significa salida, partida, inicio o comienzo"
 l4n1,"Una legua itineraria es la unidad de medida que mide la distancia que puede caminar una persona o un animal, generalmente equivale entre 4 y 7 kilometros, por lo cual, 407 leguas itinerarias equivale a entre 1628 y 2848 kilometros."
 l4n2,"Pieza de cuero crudo, lona o arpillera que se utiliza para forrar, envolver y proteger objetos (como mates, bastos, estribos o fardos)."
-k1n2,"costalillo- se refiere a un saco o bolsa grande de tela áspera y fuerte (como la arpillera, el yute, la manta o fibras sintéticas) que se utiliza comúnmente para almacenar y transportar mercancías pesadas como granos, semillas, carbón o azúcar"
-k8n1,"viaje, circulación, tráfico"
-k8n2,lanza o timón de un carro
+k1n2,"costalillo- se refiere a un saco o bolsa grande de tela áspera y fuerte (como la arpillera, el yute, la manta o fibras sintéticas) que se utiliza comúnmente para almacenar y transportar mercancías pesadas como granos, semillas, carbón o azúcar."
+k8n1,"viaje, circulación, tráfico."
+k8n2,lanza o timón de un carro.
 m7n1,Un sequion puede referir a grandes canales de regadío donde las personas suelen refrescarse.
 m7n2,Un cuarto de legua equivale entre 1 y 1.75 kilometros.
 m7n3,Catorce leguas equivale entre 56 y 98 kilometros.
@@ -154,10 +154,13 @@ l1n1,"Varas / varejones: son piezas largas y delgadas de madera, parecidas a pal
 l1n2,"Mimbre: El mimbre es una planta de ramas largas, flexibles y resistentes que tradicionalmente se usa para hacer cestos, muebles y estructuras tejidas. "
 l1n3,"Totora: es una planta acuática, de tallos largos y flexibles, que crece en zonas húmedas y lagunas. Se utilizaba tradicionalmente para hacer esteras, tejidos, techos y revestimientos. "
 l1n4,Viga: es una pieza larga y resistente de madera que funciona como parte principal de una estructura.
-l1n5,"Yugo: es una pieza de madera que se coloca sobre el cuello de dos animales de tiro, normalmente bueyes"
+l1n5,"Yugo: es una pieza de madera que se coloca sobre el cuello de dos animales de tiro, normalmente bueyes."
 l2n1,Pertigueros: Persona (sacerdote) que porta un varal de plata en la procesión del corpus en toledo. mediante unos pausados golpes que da en el suelo con la vara anuncia la llegada del santísimo sacramento que viene unos pasos más atrás.
-l2n2,Picanilla: vara más corta que la picana que sirve para aguijar a los bueyes más próximos al conductor de la carreta
-l2n3,"Coyunda: correa fuerte y ancha, generalmente de cuero o cáñamo, con la que se uncen los bueyes al yugo"
-l2n4,Arroba: Medida de líquidos que varía de peso según las zonas geográficas y los mismos líquidos
-l2n5,Cuartero: Persona a quien se encarga la custodia y cobranza de las rentas de granos de los cortijos
+l2n2,Picanilla: vara más corta que la picana que sirve para aguijar a los bueyes más próximos al conductor de la carreta.
+l2n3,"Coyunda: correa fuerte y ancha, generalmente de cuero o cáñamo, con la que se uncen los bueyes al yugo."
+l2n4,Arroba: Medida de líquidos que varía de peso según las zonas geográficas y los mismos líquidos.
+l2n5,Cuartero: Persona a quien se encarga la custodia y cobranza de las rentas de granos de los cortijos.
 l8n1,"Bisoño, en el ambito ganadero, puede referir a un novillo joven sin experiencia con el capote o la muleta."
+m3n1,"Trozos de fruta deshidratada (principalmente albaricoque o damasco, aunque también de durazno, pera o manzana) que se obtienen al secar la pieza al sol o mediante calor."
+m6n1,"Un buey es un macho bovino (toro) que ha sido castrado, lo que reduce sus niveles de testosterona, disminuye su agresividad y lo vuelve un animal más dócil, fuerte y manejable para el trabajo. "
+m6n2,"Los bueyes pertigueros son la yunta de bueyes que se coloca en la posición trasera, la más cercana a la caja de la carreta, uncida directamente al pértigo."
