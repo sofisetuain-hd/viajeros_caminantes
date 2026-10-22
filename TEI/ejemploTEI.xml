@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <?xml-model
+  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader> 
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="llc_exordio">Fragmento de El lazarillo de ciegos caminantes - Exordio</title>
+                <author>Alonso Carrió de la Vandera</author>
+                <editor resp="digital">Gabriel Calarco</editor>  
+             </titleStmt>
+            <publicationStmt>
+                <publisher>Nombre de la asignatura</publisher>
+                <availability>
+                    <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <bibl>
+                <title>El lazarillo de ciegos caminantes desde Buenos Aires, hasta Lima con sus itinerarios según la más puntual observación, con algunas noticias útiles a los Nuevos Comerciantes que tratan en Mulas ; y otras históricas / sacado de las memorias que hizo Don Alonso Carrió de la Vandera en este dilatado viaje....; por Don Calixto Bustamante Carlos Inca, alias Concolorcorvo natural de Cuzco.</title>
+                <author>Alonso Carrió de la Vandera</author>
+                <publisher>Imprenta de la Rovada</publisher> 
+                <date>1773</date>
+                <pubPlace>Lima, Perú</pubPlace>
+                <objectIdentifier>   
+                    <institution>Biblioteca Nacional (España)</institution>
+                    <idno>sig. R/22795</idno>
+             
+                </objectIdentifier>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+        <text>
+            <body>
+<pb n="b1"/>
+
+<head><foreign xml:lang="latin">Canendo et ludendo refero vera</foreign></head>
+
+<p>Si fuera cierta la opinión común, o llámese vulgar, que viajero y embustero son sinónimos, se debía preferir la lectura de la fábula a la de la historia. No se puede dudar, con razón, que la general extractó su principal fondo de los viajeros, y que algunas particulares se han escrito sobre la fe de sus relaciones. <note xml:id="b1nota1">Las cifras de los peruleros en quipus, o nudos de varios colores</note>,<note xml:id="b1nota2">los jeroglíficos o pinturas de los mexicanos</note>, la tradición de unos y otros, vertida en cuentos y cantares y otros monumentos corresponden (acaso con más pureza) a nuestros roídos pergaminos, carcomidos papeles, inscripciones sepulcrales, pirámides, estatuas, medallas y monedas, que por su antigüedad no merecen más crédito, porque así como no estorban las barbas para llorar, no impiden
+
+<pb n="b2"/>
+
+las canas para mentir. Con estos aparatos y otros casi infinitos se escribieron todas las historias antiguas y modernas. Los eruditos ponen las primeras en la clase de las fábulas, y a las segundas las comparan a las predicciones de los astrólogos, con la diferencia de que éstos, como conferencian con los dioses, anuncian lo futuro, y aquéllos, no pudiendo consultar más que con los mortales, sólo hacen presentes los sucesos pasados.</p>
+
+<p>Supuesta, pues, la incertidumbre de la historia vuelvo a decir, se debe preferir la lectura y estudio de la fábula, porque siendo ella parto de una imaginación libre y desembarazada, influye y deleita más. El héroe que propone es, por lo general, de esclarecida estirpe, hábil, robusto, diligente y de agradable presencia. Insensiblemente le empeña en los lances de peligros. Le acusa sus descuidos y algunas veces los castiga con algún suceso adverso, para que el honor le corrija, y no el miedo. Jamás le desampara ni pierde de vista. En los lances y empresas en que no alcanzan las fuerzas humanas, ocurre a las divinas, por medio de las cuatro principales cartas de aquella celestial baraja.</p>
+
+<p><persName key="juno">Juno</persName> y <persName key="venus">Venus</persName>, rivales desde la decisión
+
+<pb n="b3"/>
+
+del <note xml:id="b3nota1">pastor de Ida</note>, siguen opuesto partido, procurando cada una traer al suyo al altisonante <persName key="jupiter">Júpiter</persName> que, como riguroso republicano, apetece la neutralidad; pero deseando complacer a las dos coquetas, arroja rayos ya a la derecha, ya a la izquierda, en la fuerza del combate, para que quede indecisa la victoria. La implacable <persName key="juno">Juno</persName> abate toda su grandeza, suplicando a <persName key="eolo">Eolo</persName> sople, calme o se enfurezca. <note xml:id="b3nota2">La bizca</note> manda a <persName key="marte">Marte</persName>, como <persName key="prosperina">Proserpina</persName> a un pobre diablo. <persName key="palas">Palas</persName> no sale de la fragua del <note xml:id="b3nota3">cojo herrero</note> hasta ver a su satisfacción templados broqueles y espadas, y la sabia diosa no se desdeña transformarse en un viejo arrugado y seco, para servir de ayo y director del hijo único de <persName key="penelope">Penélope</persName>. En fin, triunfa el principal héroe de la fábula, que coloca en el inmortal sagrado templo de la fama bella.</p>
+
+<p>No se debe extrañar mucho que los dioses de la gentilidad se interesen en los progresos de los mortales, porque descendiendo de la tierra, es natural tengan algún parentesco o alianza con los héroes de la fábula, o lo menos los moverá el amor de la patria de donde derivan su origen. Lo que causa admiración es que los diablos, así pobres como ricos, y de quienes 
+
+<pb n="b4"/> 
+
+hacen tan mal concepto vivos y difuntos, franqueen sus infiernos a estos héroes hasta llegar al gabinete de <persName key="pluton">Plutón</persName>, y <persName key="prosperina">Proserpina</persName>, sin impedimento del rígido <persName key="radamante">Radamante</persName> y del avaro <persName key="caron">Charón</persName>, como dicen los franceses <foreign xml:lang="frances">fort bien</foreign>. Pero lo que más asombra es la benignidad del dios de los infiernos en haber permitido la salida de ellos a los hijos de <persName key="ulises">Ulises</persName> y de <persName key="apolo">Apolo</persName>. Algunas veces me puse a discurrir el motivo que tendría <persName key="orfeo">Orfeo</persName> para buscar a su mujer en los infiernos, habiendo muerto con verdaderas señales de mártir de la honestidad, y a <persName key="telemaco">Telémaco</persName> solicitar a su padre en los <note xml:id="b4nota1">campos Elipsios</note>, siendo constante que fue un héroe algo bellaco; pero no es lícito a los mortales averiguar los altos juicios de los dioses.</p>
+
+<p>Sin embargo, de los prodigios que cuentan los fabulistas, vemos que en todas edades y naciones se han aplicado a la historia los hombres más sabios. No se duda que algunos han sido notados de lisonjeros, y aún de venales, pero no faltaron otros tan ingenuos que no perdonaron a sus parientes y amigos, haciendo manifiestos sus defectos y publicando las buenas prendas de sus más acérrimos enemigos. Todos concurrimos a la incertidumbre 
+
+<pb n="b5"/> 
+
+de la historia, porque no hay quien no lea con gusto los aplausos que se hacen a su nación y que no vitupere al que habla de ella con desprecio o con indiferencia. En toda la Europa tiene gran crédito nuestro historiador <persName key="mariana">Mariana</persName> por su exactitud e ingenuidad, y con todo eso, muchos de los nuestros le tienen por sospechoso, y desafecto a la nación. La más salada en disparates, honró a <persName key="mariana">Mariana</persName> con el epíteto, que se da comúnmente a las inquilinas de Lupa, por que hablando de sus antepasados, los trató de incultos y de lenguaje bárbaro y grosero. Dudo que fuesen más pulido los montañeses de <placeName key="asturias">Asturias</placeName>, <placeName key="galicia">Galicia</placeName> y <placeName key="navarra">Navarra</placeName>, pero pasamos este rasgo a <persName key="mariana">Mariana</persName> por la complacencia que tenemos en oír la defensa de los vulgares vizcaínos.</p>
+
+<p>Los viajeros (aquí entro yo), respecto de los historiadores, son lo mismo que los lazarillos, en comparación de los ciegos. Estos solicitan siempre unos hábiles zagales para que dirijan sus pasos y les den aquellas noticias precisas para componer sus canciones, con que deleitan al público y aseguran su subsistencia. Aquellos, como de superior orden, recogen las memorias de los viajeros más distinguidos en la 
+
+<pb n="b6"/> 
+
+veracidad y talento. No pretendo yo colocarme en la clase de éstos, porque mis observaciones sólo se han reducido a dar una idea a los caminantes bisoños de el camino real, desde <placeName key="bsas">Buenos Aires</placeName> a esta capital de <placeName key="lima">Lima</placeName>, con algunas advertencias que pueden ser útiles a los caminantes y de algún socorro y alivio a las personas provistas en empleos para <note xml:id="b6nota1">este dilatado virreinato</note>, y por esta razón se dará a este tratadito el título de <bibl xml:id="lcc">Lazarillo de bisoños caminantes</bibl>. Basta de exordio y demos principio a nuestro asunto.</p>
+
+<p>Tengo dicho en mi Diario Náutico que a los ochenta y cuatro días de haber salido de <placeName key="riacoruña">la ría de la Coruña</placeName>, en el paquebote correo de S. M. nombrado el «Tucumán», dimos fondo a la vela en la algosa arena de la mejor ensenada que tiene el Paraná. Al amanecer del siguiente día, y mientras se preparaba la lancha, me despedí de los oficiales y equipaje con alegre pena y en particular del salado contramaestre, a quien llamé aparte y pregunté confidencialmente y bajo de palabra de honor, me diese su dictamen sobre <note xml:id="b6nota2">la vagante isla de Samborombón</note>. Se ratificó en lo que me dijo, cuando nos calmó el viento entre las islas de <placeName key="tenerife">Tenerife</placeName>, <placeName key="gomera">Gomera</placeName>, 
+
+<pb n="b7"/> 
+
+<placeName key="palma">Palma</placeName> y <placeName key="fierro">Fierro</placeName>: esto es, que en ningún tiempo se veía la isla en cuestión, sino en el de vendimia, aunque subiesen sus paisanos sobre el pico de <placeName key="tenerife">Tenerife</placeName>; le volví a suplicar me dijese lo que sabía sobre el asunto de llamar a aquella fantástica isla de Samborombón, y me respondió con prontitud que no había visto el nombre de tal santo en el calendario español, ni conocía isleño alguno con tal nombre, ni tampoco a ninguno de los extranjeros con quienes había navegado, y que, desde luego, se persuadía que aquel nombre era una borondanga, o morondanga, como la que dijo <persName key="dimas">Dimas</persName> a <persName key="gestas">Gestas</persName>. Le abracé segunda vez, y haciendo otra reverencia a los oficiales, me afiancé de los guardamancebos para bajar a la lancha, porque en estos pequeños bajeles es ociosa la escala real. Empezaron a remar los marineros a la flor del agua y palanquearon hasta poner la proa poco más de una vara de la dura arena, a donde se desciende por una corta planchada. Desde la playa a la población hay una corta distancia, que se sube sin fatiga, y en su planicie está fundada la novísima ciudad con el título de...</p>
+
+</body>
+</text>
+</TEI>

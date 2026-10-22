@@ -1,0 +1,11 @@
+key,city,country,latitude,longitude,comment,annotation
+asturias,Asturias,España,43.3614,-5.8494,,Asturias es una regiónd el norte de España conocida por su paisaje montañoso
+galicia,Galicia,España,42.8805,-8.5457,,"Galicia, situada en el extremo noroeste de la península ibérica, era una región agrícola y marinera, con una sociedad estructurada en torno a grandes señoríos y monasterios. Santiago de Compostela destacaba como un importante centro de peregrinación y vida eclesiástica."
+navarra,Navarra,España,42.816666,-1.64323,,"Navarra, situada en el noreste de la península ibérica, es una región de transición entre las montañas del Pirineo y las llanuras del Ebro."
+bsas,Buenos Aires,Argentina,-34.6037,-58.3816,,"Buenos Aires era un pequeño asentamiento colonial dependiente del Virreinato del Perú, fundado en 1536 y refundado en 1580 por Juan de Garay. A partir de 1776 cobró mayor importancia al ser declarada capital del Virreinato del Río de la Plata."
+lima,Lima,Perú,-12.046374,-77.0428,,"Lima era la capital del Virreinato del Perú y uno de los principales centros políticos, económicos y culturales de la América colonial."
+riacoruña,La ría de La Coruña,España,43.3702,-8.36644,,"La ría del Burgo o de La Coruña es una ría gallega de la provincia de La Coruña, en Galicia"
+tenerife,Tenerife,España,28.2916,-16.6291,,"Tenerife es la isla más grande del archipiélago canario, en el océano Atlántico. En el siglo XVIII era un importante centro comercial y su puerto era clave para las rutas comerciales entre Europa, América y África. "
+gomera,La Gomera,España,28.116667,-17.216667,,"La Gomera es una de las islas del archipiélago canario, situada al suroeste de Tenerife."
+palma,La Palma,España,28.716803,-17.927979,,La Palma es una isla volcánica en el archipiélago canario.
+fierro,El Hierro,España,27.74196,-17.9993,,"El Hierro es la isla más pequeña de las Islas Canarias,"
