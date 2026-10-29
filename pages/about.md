@@ -13,6 +13,7 @@ credits: true
 ## Sobre la edición
 <<<<<<< HEAD
 
+<<<<<<< HEAD
 Esta edicion es una digitalizacion del libro 'El Lazarillo de Ciegos Caminantes desde Buenos Aires hasta Lima', escrito por
 =======
 <p class="justificado"> 
@@ -20,6 +21,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non vehicula puru
 </p>
 
 >>>>>>> 2e0511f (justifique 1 parrafo)
+=======
+Esta edicion es una digitalizacion del libro 'El Lazarillo de Ciegos Caminantes desde Buenos Aires hasta Lima', escrito por 
+
+>>>>>>> c1fde0d (agregue espacio)
 ## Sección 1
 
 **Título**
