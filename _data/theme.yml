@@ -1,4 +1,4 @@
-##########
+≈##########
 # CollectionBuilder Theme Customization
 # values set here help configure details of individual pages in the website
 ##########
@@ -12,7 +12,6 @@ featured-image: objects/portada.jpg
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 11em # the margin from the top your title portion will appear.
 # optional: change position of background image, center, top, bottom
-home-banner-image-position: center # Default is top
 
 ##########
 # ITEM PAGE
