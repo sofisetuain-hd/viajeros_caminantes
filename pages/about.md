@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/nav-menu.html sections="Sobre la edición;Sección 1;Sección 2;Sección 3;" %}
+{% include feature/nav-menu.html sections="Sobre la edición;Sección 1" %}
 
 ## Sobre la edición
 
