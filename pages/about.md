@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/nav-menu.html sections="Sobre la edición;Sección 1" %}
+{% include feature/nav-menu.html sections="Sobre la edición;Sobre nosotros" %}
 
 ## Sobre la edición
 
@@ -17,13 +17,9 @@ Este trabajo en particular, digitaliza y edita desde el folio  L3 hasta el M8, d
 </p>
 
 
-## Sección 1
+## Sobre nosotros
 
-**Título**
 
-*Ítem en lista*<br/>
-*Ítem en lista*<br/>
-*Ítem en lista*<br/>
+<p class="justificado">Este grupo está compuesto por 5 integrantes. Por un lado, Francisco Areta Close es un estudiante de tercer año de Ciencias Sociales y Joaquín Emanuel Carrizo, que también es estudiante de tercer año de Ciencias Sociales. Luego Sofia Emma Setuain está en su tercer año de Economía Empresarial y por último, ambas, Jacinta Casabal Pereda y Camila Perez Sande también estudian Ciencias Sociales.</p> 
 
-<p class="justificado"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non vehicula purus. Proin nec sem tincidunt, facilisis ligula non, volutpat sapien. Phasellus tempor euismod urna quis consectetur. Quisque porttitor, sapien ac sollicitudin pellentesque, ligula diam porta lectus, non sodales nibh ligula ac ex. Ut aliquet ligula ac metus fringilla tempor. Nullam vel viverra purus. Aenean fermentum, justo eu iaculis imperdiet, ex tellus porttitor mi, vel ullamcorper est risus at lectus. Nulla pulvinar suscipit metus, vel vestibulum erat accumsan in. Morbi vitae suscipit urna. Praesent eget sapien dapibus, hendrerit metus et, consectetur ligula. Aliquam quis consequat tortor. Maecenas vel fermentum ante. Curabitur consequat, quam id consequat tempus, mauris arcu ornare leo, eu egestas urna felis a purus. Aliquam sapien diam, porta ut nibh ut, luctus dignissim dui. Nam iaculis consequat ligula sed pellentesque.
-</p> 
+<p class="justificado">Este sitio se hizo en el marco de la materia Humanidades Digitales en la universidad Torcuato Di Tella.</p> 
