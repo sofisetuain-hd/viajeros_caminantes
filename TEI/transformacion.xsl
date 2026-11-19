@@ -32,7 +32,7 @@
 
 
 <xsl:template match="//p">
-        <p>
+        <p class="justificado">     
             <xsl:apply-templates/>
         </p>
     </xsl:template>
